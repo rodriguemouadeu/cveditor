@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 cveditor
 ==============
 
@@ -42,3 +43,6 @@ Using Vaadin pre-releases
 
 If Vaadin pre-releases are not enabled by default, use the Maven parameter
 "-P vaadin-prerelease" or change the activation default value of the profile in pom.xml .
+=======
+# cveditor
+>>>>>>> 19514dc6e8c5bbad5e1b2b151bf3e86b85c25101
